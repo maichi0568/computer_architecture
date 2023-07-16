@@ -1,0 +1,1 @@
+Test typing speed and accuracy by using Digital Sim Lab, MMIO and console
